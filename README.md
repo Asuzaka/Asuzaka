@@ -63,10 +63,10 @@ I enjoy working across the stack — from backend systems to frontend UI — and
 - For suggestions, collaborations, or opportunities, feel free to contact me via Telegram or Email.
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/e6nulsya" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:ligvadogamer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
