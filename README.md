@@ -1,40 +1,72 @@
-# 👋 Hey there! I'm a Junior Dev on a Mission
+<!-- Banner -->
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Banner" width="100%" />
+</p>
 
-I'm an independent, self-driven **Frontend Developer** passionate about building clean, interactive, and multilingual web experiences. I'm currently expanding my skills beyond frontend by learning **Go** and **C#** to deepen my backend and systems knowledge.
+# 👋 Hey there! I'm a Developer on a Mission
+
+I'm an independent, self-driven **Developer** passionate about building clean, interactive, and multilingual web experiences.  
+I enjoy working across the stack — from backend systems to frontend UI — and I’m always pushing to learn new workflows, tools, and architectures.
+
+---
 
 ## 💡 What Drives Me
 
 - Constantly learning, experimenting, and pushing my limits
 - Building things that are fast, accessible, and visually engaging
 - Designing thoughtful user experiences with attention to detail
-- Making things work well on *all* devices — even low-end ones
+- Making things work well on _all_ devices — even low-end ones
 - Keeping things clean: in code, design, and project structure
+
+---
 
 ## 🧠 What I’m Learning
 
-- **Go** and **C#** – diving into both for their power and structure  
-- **System design** and scalable app architecture  
-- **CI/CD pipelines** and DevOps workflows  
-- **Security** with JWTs, CORS, and protected routes  
-- **Performance optimizations** for smooth UX across devices
+- **DevOps workflows** (CI/CD, automation, deployments)
+- **PostgreSQL** for relational database management
+- Expanding knowledge in **system design** and scalable architectures
 
-## 🔧 Stack & Tools
+---
 
-| Frontend       | Backend            | Tools & DevOps      |
-| -------------- | ------------------ | ------------------- |
-| React          | Node.js / Express  | Netlify             |
-| Tailwind CSS   | MongoDB            | GitHub              |
-| Vite           | RESTful APIs       | VS Code, Postman    |
-| i18next        | JWT Auth           | CI/CD Pipelines     |
+## 🔧 Languages & Tech
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  📄 <a href="./assets/stack.pdf" target="_blank">See my detailed tech stack (PDF)</a>
+</p>
+
+---
 
 ## 🎯 Goals for 2025
 
-- 🧱 Build more full-stack projects from scratch
-- 📦 Contribute to open source (even a little!)
-- 🛡️ Strengthen backend and security skills
-- 💼 Land a dev role where I can grow & make an impact
+- 🧱 Build more **end-to-end fullstack projects**
+- 🤝 Find a **team** to work with, gain real-world experience, and collaborate
+- 📦 Contribute to open source
+- 🛡️ Strengthen backend, database, and security skills
 - ✨ Stay creative and keep having fun with code
 
 ## 📫 Let’s Connect
 
-I'm always down to chat, learn something new, or team up on cool ideas. Whether you're into design, code, games, or building for the web — let's connect and make something awesome. 🚀
+- For suggestions, collaborations, or opportunities, feel free to contact me via Telegram or Email.
+
+<p align="center">
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
